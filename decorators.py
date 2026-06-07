@@ -17,3 +17,19 @@ def do_that():
 
 do_this()
 do_that()
+
+
+
+
+
+def changeCase(func):
+    def myinner():
+        return func().upper()
+    return myinner
+
+
+@changeCase
+def myy_func():
+    return "hello bro!"
+
+print(myy_func())
