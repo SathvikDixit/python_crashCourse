@@ -15,3 +15,5 @@ from datetime import datetime
 xy = datetime.now()
 print(xy.year)
 print(xy.strftime("%c")) #prints exact day, date, time.
+
+
