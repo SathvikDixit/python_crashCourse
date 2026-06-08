@@ -1,1 +1,1 @@
-# 
+# An iterator is an object that allows you to traverse through sequenceone item at a time
