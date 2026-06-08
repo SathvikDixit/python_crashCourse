@@ -1,9 +1,9 @@
 class myClass:
-    def barking():
+    def barking(self):
         print("barking feature")
     
-    def eating():
+    def eating(self):
         print("Eating feature")
 
 b1 = myClass()
-print(b1.barking())
+b1.barking()
