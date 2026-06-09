@@ -22,6 +22,10 @@ print()
 
 
 
+
+
+
+
 # writing a practice code using multiple methods
 class playlist:
     def __init__(self):
