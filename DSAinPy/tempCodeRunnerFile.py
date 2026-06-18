@@ -1,0 +1,1 @@
+and last_nodiddu[chr] >= lefft:
