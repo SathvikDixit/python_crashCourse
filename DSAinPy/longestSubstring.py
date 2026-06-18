@@ -31,3 +31,6 @@ for rght, chr in enumerate(sttring):
     max_len = max(max_len, rght - lefft + 1)
 
 print(max_len)
+
+
+
