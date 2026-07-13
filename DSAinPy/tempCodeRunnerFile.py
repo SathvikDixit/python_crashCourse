@@ -1,1 +1,5 @@
-and last_nodiddu[chr] >= lefft:
+while True:
+    try:
+        print(next(it))
+    except StopIteration:
+        break

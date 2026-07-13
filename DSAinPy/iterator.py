@@ -5,5 +5,12 @@ it = iter(nums)
 
 
 # OR
-for num in it:
-    print(num)
+# for num in it:
+#     print(num)
+
+# OR
+while True:
+    try:
+        print(next(it))
+    except StopIteration:
+        break
