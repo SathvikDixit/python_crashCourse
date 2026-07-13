@@ -7,8 +7,8 @@ shallow = copy.copy(Originnaal)
 shallow[0][0] = 100
 print("Original: ", Originnaal)
 print("Shallow: ", shallow)
-
 print()
+
 
 
 #Deep Copy
