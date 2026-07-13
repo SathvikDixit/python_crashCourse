@@ -13,4 +13,5 @@ while True:
     try:
         print(next(it))
     except StopIteration:
+        print("Printing aithu.")
         break
