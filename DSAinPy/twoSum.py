@@ -34,3 +34,14 @@ if __name__ == "__main__":
     target = 13
 
     print("Found at indix: ",sol.twoSum_indices(arr, target))
+
+#T.C = O(n^2)
+
+
+
+
+
+
+
+
+#---------------------------------------------------------Better Solution-----------------------------------------------------
