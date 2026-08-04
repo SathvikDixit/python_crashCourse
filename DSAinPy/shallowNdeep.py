@@ -14,7 +14,6 @@ print()
 #Deep Copy
 original = [[1, 2], [3, 4]]
 deep = copy.deepcopy(original)
-
 deep[0][0] = 100
 
 print("Original: ", original)
