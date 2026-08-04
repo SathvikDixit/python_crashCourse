@@ -1,3 +1,5 @@
+# Prime Number problem 
+# Time Complexity: O(sqrt n)
 num = int(input("Enter the number: "))
 
 if num <= 1:
