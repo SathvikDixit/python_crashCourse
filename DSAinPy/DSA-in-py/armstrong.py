@@ -14,3 +14,11 @@ if original == total:
 else:
     print(f'Your number {original} is not an Armstrong number')
 # Time Complixity = O(log n)        Space Complixity = O(log n)
+
+
+
+
+
+
+
+
