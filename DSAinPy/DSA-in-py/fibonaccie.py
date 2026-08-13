@@ -29,10 +29,10 @@ class Solution:
         # return series
         return a
 
-def main():
+def nigga():
     n = int(input("how many digits of fib you want: "))
     obj = Solution()
     print("Fibonaccie number: ",obj.fib(n))
 
 if __name__ == "__main__":
-    main()
+    nigga()
