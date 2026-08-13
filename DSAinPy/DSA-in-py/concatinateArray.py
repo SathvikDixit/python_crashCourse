@@ -8,3 +8,5 @@ solution = Solution()
 result = solution.concatinateArray(nums)
 print(result)
 
+# T.C = O(n)
+# S.C = O(n)
