@@ -19,6 +19,6 @@ print(arr)'''
 
 
 
-# Without fixe array size [String]:
+# Without fixed array size [String]:
 arr = input("Enter words: ").split()
 print(arr)
