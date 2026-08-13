@@ -9,3 +9,5 @@ def runningSumm(nums):
 nums = [1, 2, 3, 4]
 result = runningSumm(nums)
 print(result)
+# T.C = O(n)
+# S.C = O(n)
