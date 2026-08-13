@@ -10,3 +10,5 @@ def buildArrPermut(nums):
 nums = [0, 2, 1, 5, 3, 4]
 result = buildArrPermut(nums)
 print(result)
+# T.C = O(n)
+# S.C = O(n)
