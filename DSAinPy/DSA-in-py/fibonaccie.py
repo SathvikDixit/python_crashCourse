@@ -20,10 +20,13 @@ class Solution:
     def fib(self, n: int) ->int:
         a = 0
         b = 1
+        # series = []
         for _ in range (n):
+            # series.append(a)
             c = a + b
             a = b
             b = c
+        # return series
         return a
 
 def main():
