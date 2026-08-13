@@ -9,8 +9,6 @@ print(arr) '''
 
 
 
-# With fixed size of array
-
 
 # Without fixed array size [Integer]:
 ''' arr = list(map(int, input("Enter numbers use space and press enter after entering numbers: ").split()))
