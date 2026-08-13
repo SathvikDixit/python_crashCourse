@@ -1,4 +1,5 @@
 #Leetcode: 1920
+#Build an array from permutation
 def buildArrPermut(nums):
     ans = []
 
